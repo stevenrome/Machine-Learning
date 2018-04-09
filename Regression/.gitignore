@@ -1,0 +1,12 @@
+*.sqlite
+*.zip
+*.csv
+*.txt
+*.png
+*.jpg
+*.xlsx
+*.xls
+.ipynb_checkpoints
+Ex.ipynb
+NN.py
+1_Energy.ipynb
